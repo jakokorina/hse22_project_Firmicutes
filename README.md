@@ -12,3 +12,7 @@
 ## Гистограммы распредления ZH-Score
 
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/GCF_001050475.1_ASM105047v1_distribution.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/GCF_001951175.1_ASM195117v1_distribution.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/GCF_001971585.1_ASM197158v1_distribution.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/GCF_002706745.1_ASM270674v1_distribution.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/GCF_006007945.1_ASM600794v1_distribution.png)
