@@ -25,3 +25,8 @@
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/2zdna.png)
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/3zdna.png)
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/4zdna.png)
+
+## Полученные кластеры
+
+Количество кластеров: 2461
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/distr_genes.png)
