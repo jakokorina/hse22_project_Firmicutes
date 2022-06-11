@@ -29,4 +29,5 @@
 ## Полученные кластеры
 
 Количество кластеров: 2461
+
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/distr_genes.png)
