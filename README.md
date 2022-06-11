@@ -20,11 +20,11 @@
 
 ## Расположение Z-DNA относительно генов
 
-![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/0zdna.png)
-![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/1zdna.png)
-![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/2zdna.png)
-![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/3zdna.png)
-![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/4zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/0_zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/1_zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/2_zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/3_zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/4_zdna.png)
 
 ## Полученные кластеры
 
