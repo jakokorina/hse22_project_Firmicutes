@@ -16,3 +16,12 @@
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/GCF_001971585.1_ASM197158v1_distribution.png)
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/GCF_002706745.1_ASM270674v1_distribution.png)
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/GCF_006007945.1_ASM600794v1_distribution.png)
+
+
+## Расположение Z-DNA относительно генов
+
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/0zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/1zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/2zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/3zdna.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/4zdna.png)
