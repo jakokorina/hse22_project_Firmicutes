@@ -32,3 +32,6 @@
 
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/distr_genes.png)
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/distr_species.png)
+
+После отбора осталось 3 кластера, содержащих консервативную Z-DNA. Их выравнивания находятся в папке `alignments`.  
+
