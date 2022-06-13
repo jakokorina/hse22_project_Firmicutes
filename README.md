@@ -35,3 +35,8 @@
 
 После отбора осталось 3 кластера, содержащих консервативную Z-DNA. Их выравнивания находятся в папке `alignments`.  
 
+### Визуализация расположения участков Z-DNA
+
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/cluster_0.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/cluster_1.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/cluster_2.png)
