@@ -37,6 +37,6 @@
 
 ### Визуализация расположения участков Z-DNA
 
-![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/cluster_0.png)
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/cluster_1.png)
 ![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/cluster_2.png)
+![image](https://github.com/jakokorina/hse22_project_Firmicutes/blob/main/img/cluster_3.png)
